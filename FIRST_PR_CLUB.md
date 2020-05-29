@@ -37,3 +37,9 @@ Hey all, just getting used to running with the PR process again.
 
 ----
 pdcoded :: Long live Internet and OpenSouce !
+
+-----
+* [Andy Wei](https://github.com/AndrewWei-Colosseum)
+Hey, everyday, I am from China. I am studying software engineering in university, good to see you all :)
+this is my first open source project, wish to contribute. 
+Very excited to start a new trip on github :)
